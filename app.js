@@ -49,7 +49,7 @@ function geraMensagemInicial(){
 }
 
 // =========================================================================
-
+// Comentario inutil
 let numeroAleatorio = geraNumeroAleatorio();
 let tentativas = 1;
 
